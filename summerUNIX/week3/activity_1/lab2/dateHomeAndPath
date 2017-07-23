@@ -1,0 +1,4 @@
+# This script displays the date and time, home directory, and pathname.
+#!
+echo $(date) $HOME $PATH
+

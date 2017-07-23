@@ -1,0 +1,6 @@
+# This script uses a for loop to display all arguments on separate lines
+#!
+for arg; do
+echo $arg
+done
+

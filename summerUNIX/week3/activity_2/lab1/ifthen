@@ -1,0 +1,10 @@
+# This script reads a string from the user and repeats the input if it is nonnull; otherwise it asks "Where is your input?"
+#!
+echo ">> "
+read input
+if test $input; then
+	echo "You entered: $input "
+else
+	echo "Where is your input? "
+fi
+

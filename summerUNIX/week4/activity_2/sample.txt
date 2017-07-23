@@ -1,0 +1,6 @@
+total 23
+-rw-------+ 1 erp150130 chm    0 Jun 24 03:39 sample.txt
+-rwx--x--x+ 1 erp150130 chm 8720 Jun 24 03:33 simple-cat
+-rw-------+ 1 erp150130 chm  477 Jun 24 03:32 simple-cat.c
+-rwx--x--x+ 1 erp150130 chm 8824 Jun 24 03:32 simple-ls
+-rw-------+ 1 erp150130 chm  516 Jun 24 03:32 simple-ls.c

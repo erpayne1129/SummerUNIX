@@ -1,0 +1,4 @@
+# This script prints the first argument given to it when called
+#!
+echo $1
+

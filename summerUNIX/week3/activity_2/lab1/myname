@@ -1,0 +1,6 @@
+# This script prompts the user for a name and displays it.
+#!
+echo "Enter your name: "
+read name
+echo "Hello $name"
+

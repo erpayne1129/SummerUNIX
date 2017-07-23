@@ -1,0 +1,5 @@
+# This script displays the PID of the process running the script and the value of the variable myvar
+#!
+echo "The PID of this process is: $$ "
+echo "The value of myvar is: $myvar"
+
